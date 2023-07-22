@@ -1,0 +1,27 @@
+.card-simple {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 150px; 
+  height: 250px; 
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 1px;
+  backdrop-filter: blur(30px);
+}
+
+.card-simple-title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 1rem;
+  color: hsl(0, 0%, 0%);
+  text-decoration: overline;
+  border-radius: 5px;
+  text-align: center;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3);
+
+  }
+
+
+  
+  
